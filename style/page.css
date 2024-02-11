@@ -1,0 +1,23 @@
+.nav {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    font-size: large;
+}
+
+.content {
+    font-size: larger;
+}
+
+.bottom {
+    font-size: medium;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.small {
+    font-size: small;
+}
